@@ -5,7 +5,7 @@ verify_ssl = true
 
 [packages]
 pyyaml = "==5.1"
-django = "==2.2.5"
+django = "==2.2.24"
 mysqlclient = "==1.4.2.post1"
 markdown = "==3.1.1"
 pillow = "==5.0.0"
